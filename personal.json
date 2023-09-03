@@ -1,0 +1,14 @@
+{
+    "avatar": "./ahmed.jpg",
+    "name": "Ahmed Ramadan",
+    "email": "ahmediramadan01@proton.me",
+    "city": "Cairo",
+    "bio": "Full Stack Web Developer with a degree in Mechanical Engineering",
+    "skills": ["HTML", "CSS", "JavaScript", "Angular", "Node.js", "Express", "MongoDB"],
+    "projects": [
+        {
+            "project": "Online Store with Admin Dashboard",
+            "company": "Sprints"
+        }
+    ]
+}
